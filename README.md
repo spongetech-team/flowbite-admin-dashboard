@@ -1,3 +1,10 @@
+## Pre-requisites
+
+Install hugo if not present.
+
+Ubuntu: `sudo apt install hugo`<br>
+Mac: `brew install hugo`<br>
+
 ## Quick start
 
 1. Clone this repository or download the ZIP file
@@ -19,5 +26,3 @@ You can also build the project and get the distribution files inside the `public
 ```
 npm run build
 ```
-
-You can instantly upload your project to Vercel by selecting the default HUGO configuration, but depending on your own tech stack whether it's React.js, Vue, Nuxt.js, Next.js or a back-end framework you can also just copy the layouts from this project inside your own tech stack.
